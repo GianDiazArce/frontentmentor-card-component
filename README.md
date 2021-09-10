@@ -5,8 +5,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/frontentmentorcardcomponent-81DQuHFZh)
-- Live Site URL: [Add live site URL here](https://giandiazarce.github.io/frontentmentor-card-component/)
+- Solution URL: [URL here](https://www.frontendmentor.io/solutions/frontentmentorcardcomponent-81DQuHFZh)
+- Live Site URL: [URL here](https://giandiazarce.github.io/frontentmentor-card-component/)
 
 ## My process
 
